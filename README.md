@@ -13,7 +13,7 @@
 
 - 📫 How to reach me Twitter or Instagram
 
-- ⚡️ Fun fact I sometimes play Minecraft
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
