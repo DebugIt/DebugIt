@@ -11,7 +11,7 @@
 
 - 💬 Ask me about Python, Web Development, C programming, MySQL database, Ui Designing
 
-- 📫 How to reach me Twitter or Instagram
+- 📫 How to reach me Twitter
 
 
 
