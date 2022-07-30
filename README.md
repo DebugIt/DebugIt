@@ -9,7 +9,7 @@
 
 - 👨‍💻 My profile Website - [https://debugit.github.io/debugCodes/](https://debugit.github.io/debugCodes/)
 
-- 💬 Ask me about Python, Web Development
+- 💬 Ask me about Python, Web Development, C programming, MySQL database, Ui Designing
 
 - 📫 How to reach me Twitter or Instagram
 
