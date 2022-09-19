@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my programming skills
 
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning C++
 
 - 👨‍💻 My profile Website - [https://debugit.github.io/debugCodes/](https://debugit.github.io/debugCodes/)
 
