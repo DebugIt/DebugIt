@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my programming skills
 
-- 👨‍💻 My profile Website - [DebugCodes](https://debugcodes.netlify.app/)
+- 👨‍💻 My profile Website - [DebugCodes](https://debugcodes.vercel.app/)
 
 - 💬 Ask me about Python, Web Development, C programming, MySQL database, Ui Designing
 
